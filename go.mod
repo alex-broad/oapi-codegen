@@ -23,3 +23,5 @@ require (
 )
 
 go 1.16
+
+replace github.com/deepmap/oapi-codegen => ./
